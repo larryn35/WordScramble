@@ -1,4 +1,4 @@
-Project 6 from 100 Days of SwiftUI (https://www.hackingwithswift.com/100/swiftui)
+Project 5 from 100 Days of SwiftUI (https://www.hackingwithswift.com/100/swiftui)
 
 Game where users create as many words from a random eight-letter word as they can.
 
